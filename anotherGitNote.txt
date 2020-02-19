@@ -5,3 +5,8 @@
 3. 把项目clone下来时不用"https 的那个url"，而是用“ssh 的那个url”这样就不需要每次操作输入用户名和密码了。
 
 git add -A 可以一次性提交所有内容
+
+注意：
+
+git push<远程主机名> <本地分支名>:<远程分支名>这个意思是将本地分支local 推送到远程的指定分支
+如： git push origin testBranch:test
