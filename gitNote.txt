@@ -55,7 +55,7 @@ branch 包含了从初始 commit 到它的所有路径，而不是一条路径�
 
 pick：保留该commit（缩写:p）
 
-
+增加一行内容 git push origin branch1 -f
 
 
 
