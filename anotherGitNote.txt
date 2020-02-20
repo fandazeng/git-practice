@@ -31,3 +31,5 @@ branch 包含了从初始 commit 到它的所有路径，而不是一条路径�
 
 可以强制让你本地的commit覆盖远程的commit，但是这个命令尽量少用，因为影响比较大。
 
+用这条命git push origin <分支名> --force
+可以强制让你本地的commit覆盖远程的commit，但是这个命令尽量少用，因为影响比较大。
